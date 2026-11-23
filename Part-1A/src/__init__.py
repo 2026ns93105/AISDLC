@@ -1,0 +1,1 @@
+"""Smart Todo Manager package."""
